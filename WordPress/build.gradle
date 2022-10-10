@@ -389,7 +389,7 @@ dependencies {
 
     implementation 'com.github.bumptech.glide:glide:4.10.0'
     kapt 'com.github.bumptech.glide:compiler:4.10.0'
-    implementation 'com.github.bumptech.glide:volley-integration:4.6.1@aar'
+    implementation 'com.github.bumptech.glide:volley-integration:4.14.2@aar'
 
     testImplementation "junit:junit:$jUnitVersion"
 
